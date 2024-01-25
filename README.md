@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ghulam Jaffar</h1>
-<h3 align="center">As a programmer, I have a strong passion for turning ideas into reality through code.</h3>
+<h3 align="center">A software engineer with a passion for creating beautiful and intuitive user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghulam-Jaffar&label=Profile%20views&color=0e75b6&style=flat" alt="Ghulam-Jaffar" /> </p>
 
